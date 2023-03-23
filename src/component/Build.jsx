@@ -8,7 +8,7 @@ function Build() {
           <h1 class="text-5xl font-extrabold text-white">WE BUILD</h1>
           <h1 class="text-5xl font-extrabold text-white">THE NEW WORLD!</h1>
           <p>LOREM IPSUM DOLOR SHT ADIPISCING ELIT</p>
-          <button class="rounded-lg px-5 bg-[#fed615] hover:bg-black hover:text-white">READ MORE</button>
+          <button class="rounded-lg px-5 bg-[#fed615] ease-in duration-300 hover:bg-black hover:text-white">READ MORE</button>
         </div>
       </div>
     </div>
