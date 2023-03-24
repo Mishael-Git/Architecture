@@ -24,7 +24,7 @@ function Welcome() {
         </p>
       </div>
       <div className="flex flex-row items-center justify-between ">
-        <div className=" flex flex-col items-center px-8 ">
+        <div className=" flex flex-col items-center px-16 ">
           <div className="w-36 h-36 ">
             <img src={Build}  className="w-full h-full rounded-full opacity-50"/>
           </div>
