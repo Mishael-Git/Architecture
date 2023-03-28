@@ -3,7 +3,7 @@ import { Build, Experts, Get_in_touch, Nav, Recent, Welcome } from './Info'
 
 function Body() {
   return (
-    <div className='space-y-7'>
+    <div className='space-y-7 px-40'>
         <div>
         <Nav/>
         </div>
