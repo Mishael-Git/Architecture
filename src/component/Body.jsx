@@ -1,5 +1,5 @@
 import React from 'react'
-import { Build, Nav, Recent, Welcome } from './Info'
+import { Build, Experts, Nav, Recent, Welcome } from './Info'
 
 function Body() {
   return (
@@ -16,6 +16,10 @@ function Body() {
     </div>
     <div className='bg-[#fafbf6] py-5 px'>
       <Recent/>
+    </div>
+
+    <div>
+      <Experts/>
     </div>
 
     </div>
