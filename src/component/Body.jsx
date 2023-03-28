@@ -1,5 +1,5 @@
 import React from 'react'
-import { Build, Experts, Nav, Recent, Welcome } from './Info'
+import { Build, Experts, Get_in_touch, Nav, Recent, Welcome } from './Info'
 
 function Body() {
   return (
@@ -20,6 +20,9 @@ function Body() {
 
     <div>
       <Experts/>
+    </div>
+    <div>
+      <Get_in_touch/>
     </div>
 
     </div>
