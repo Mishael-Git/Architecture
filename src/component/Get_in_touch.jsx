@@ -5,7 +5,7 @@ import { BsPinterest, BsGithub } from "react-icons/bs";
 import { TfiGoogle } from "react-icons/tfi";
 function Get_in_touch() {
   return (
-    <div className="flex flex-col items-center bg-[url('/public/Shipping.jpg')] bg-no-repeat bg-contain bg-cover">
+    <div className="flex flex-col items-center bg-[url('/public/Shipping.jpg')] bg-no-repeat bg-cover">
       <div>
         <h1 class="text-3xl font-thin">GET IN TOUCH</h1>
       </div>
